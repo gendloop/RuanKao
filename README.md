@@ -1,6 +1,6 @@
 # 计算机技术与软件专业技术资格考试
 
-[初级题库(程序员)](junior/README.md) [中级题库](intermediate/README.md) [高级题库](senior/README.md)
+[初级题库(程序员)](junior/README.md) $\cdot$ [中级题库](intermediate/README.md) $\cdot$ [高级题库](senior/README.md)
 
 * [计算机技术与软件专业技术资格考试](https://www.ruankao.org.cn/), 简称软考
 * 每年组织两次, 在第二季度和第四季度进行
